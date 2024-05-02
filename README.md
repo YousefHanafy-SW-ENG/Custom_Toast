@@ -1,16 +1,10 @@
-# custom_toast
+# Custom Toast for Flutter
 
-A new Flutter project.
+Customize your app's notifications with Custom Toast, a Flutter package that provides a highly customizable and easy-to-use toast notification solution.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Customizable Toasts**: Easily customize background colors, text styles, and borders.
+- **Flexible Positioning**: Position toasts on the screen wherever you need.
+- **Animation Options**: Choose from various entry and exit animations for your toasts.
+- **Duration Control**: Control how long your toasts are displayed.
